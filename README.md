@@ -1,5 +1,3 @@
-
-
 # Navigating the Future:Indoor Navigation using AR
 
 With the growth in architectural intricacy of indoor spaces, individuals 
