@@ -11,13 +11,8 @@ are scattered within the indoor space which upon scanning relocates the user and
 assists them using arrows on their screen to their desired destination
 
 
-
-
 ## Entire Project Source Code
-
 https://1024terabox.com/s/1u6tkz8b-meSONbsrcRsdQw
 
-
 ## Screenshots
-
 ![image](https://github.com/AbiaPereira04/Navigating-the-Future-Indoor-Navigation-using-AR/assets/91883575/2f4d3306-4de1-45a6-a701-bcee05a3bfb5)
